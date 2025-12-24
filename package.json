@@ -1,0 +1,21 @@
+{
+  "name": "yidnet-test-task",
+  "version": "1.0.0",
+  "description": "YidNet test task - Community post flagging feature",
+  "private": true,
+  "workspaces": [
+    "mobile",
+    "backend"
+  ],
+  "scripts": {
+    "backend:dev": "cd backend && npm run dev",
+    "backend:build": "cd backend && npm run build",
+    "mobile:start": "cd mobile && npm start",
+    "mobile:ios": "cd mobile && npm run ios",
+    "mobile:android": "cd mobile && npm run android"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+

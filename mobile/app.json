@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Community Posts",
+    "slug": "community-posts",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yidnet.communityposts"
+    },
+    "android": {
+      "package": "com.yidnet.communityposts",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    }
+  }
+}
+
